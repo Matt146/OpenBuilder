@@ -1,0 +1,230 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matt/Desktop/Files/Programming Projects/Game/animations.h
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+SDL2/SDL.h
+-
+iostream
+-
+
+/home/matt/Desktop/Files/Programming Projects/Game/camera.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+SDL2/SDL.h
+-
+string
+-
+vector
+-
+map
+-
+map.h
+/home/matt/Desktop/Files/Programming Projects/Game/map.h
+character.h
+/home/matt/Desktop/Files/Programming Projects/Game/character.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/character.h
+stdio.h
+-
+stdlib.h
+-
+string
+-
+utils.h
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+SDL2/SDL.h
+-
+projectile.h
+/home/matt/Desktop/Files/Programming Projects/Game/projectile.h
+map.h
+/home/matt/Desktop/Files/Programming Projects/Game/map.h
+inventory.h
+/home/matt/Desktop/Files/Programming Projects/Game/inventory.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/enemy.h
+SDL2/SDL.h
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+map
+-
+chrono
+-
+enemy.h
+/home/matt/Desktop/Files/Programming Projects/Game/enemy.h
+animations.h
+/home/matt/Desktop/Files/Programming Projects/Game/animations.h
+inventory.h
+/home/matt/Desktop/Files/Programming Projects/Game/inventory.h
+character.h
+/home/matt/Desktop/Files/Programming Projects/Game/character.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/gamestate.cpp
+gamestate.h
+/home/matt/Desktop/Files/Programming Projects/Game/gamestate.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/gamestate.h
+iostream
+-
+string
+-
+vector
+-
+projectile.h
+/home/matt/Desktop/Files/Programming Projects/Game/projectile.h
+SDL2/SDL.h
+-
+stdio.h
+-
+stdlib.h
+-
+utils.h
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+character.h
+/home/matt/Desktop/Files/Programming Projects/Game/character.h
+map.h
+/home/matt/Desktop/Files/Programming Projects/Game/map.h
+camera.h
+/home/matt/Desktop/Files/Programming Projects/Game/camera.h
+perlin.h
+/home/matt/Desktop/Files/Programming Projects/Game/perlin.h
+gui.h
+/home/matt/Desktop/Files/Programming Projects/Game/gui.h
+inventory.h
+/home/matt/Desktop/Files/Programming Projects/Game/inventory.h
+enemy.h
+/home/matt/Desktop/Files/Programming Projects/Game/enemy.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/gui.h
+SDL2/SDL.h
+-
+SDL2/SDL_ttf.h
+-
+iostream
+-
+cmath
+-
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+string
+-
+map
+-
+utils.h
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/inventory.h
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+stdint.h
+-
+algorithm
+-
+animations.h
+/home/matt/Desktop/Files/Programming Projects/Game/animations.h
+utils.h
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+gui.h
+/home/matt/Desktop/Files/Programming Projects/Game/gui.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/map.h
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+string
+-
+map
+-
+utils.h
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+SDL2/SDL.h
+-
+algorithm
+-
+perlin.h
+/home/matt/Desktop/Files/Programming Projects/Game/perlin.h
+limits.h
+-
+memory
+-
+inventory.h
+/home/matt/Desktop/Files/Programming Projects/Game/inventory.h
+fstream
+-
+
+/home/matt/Desktop/Files/Programming Projects/Game/perlin.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/projectile.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+SDL2/SDL.h
+-
+utils.h
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+
+/home/matt/Desktop/Files/Programming Projects/Game/utils.h
+SDL2/SDL.h
+-
+string
+-
+vector
+-
+string
+-
+chrono
+-
+iostream
+-
+dirent.h
+-
+map
+-
+set
+-
+unordered_set
+-
+unordered_map
+-
+algorithm
+-
+limits.h
+-
+animations.h
+/home/matt/Desktop/Files/Programming Projects/Game/animations.h
+perlin.h
+/home/matt/Desktop/Files/Programming Projects/Game/perlin.h
+
