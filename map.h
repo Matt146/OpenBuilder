@@ -19,7 +19,7 @@ typedef struct Tile {
     int texture_id;
     int x;
     int y;
-    double brokenness; // starts at 0, goes up to 1 | THIS WAS THE MOFO ERROR THAT CAUSED THE RENDERING TO GO TO SHIT
+    double brokenness; // starts at 0, goes up to 1 | THIS WAS THE MOFO ERROR THAT CAUSED THE RENDERING TO GO TO STUFF
 } Tile;
 
 

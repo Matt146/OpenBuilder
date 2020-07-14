@@ -1,11 +1,11 @@
 #include "gamestate.h"
 
 void PlayNowButtonCallback(void* any_thing) {
-    std::cout << "WARNING: BLACK MAGIC MEMORY MANAGEMENT SHIT HAPPENS HERE" << std::endl;
+    std::cout << "WARNING: BLACK MAGIC MEMORY MANAGEMENT STUFF HAPPENS HERE" << std::endl;
     std::cout << "\tPlay now button on title screen ^^^^^^^^" << std::endl;
     Gamestate* catch_me = (Gamestate*)any_thing;
     if (catch_me == NULL) {
-        std::cout << "FUCK" << std::endl;
+        std::cout << "NOOOO!" << std::endl;
     }
     catch_me->SetCurrentScene(GAMEPLAY_SCREEN);
 }

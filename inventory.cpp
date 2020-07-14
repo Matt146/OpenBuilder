@@ -179,10 +179,10 @@ int Inventory::GetCurHopbarSlot() {
 }
 
 void InventoryButtonCallback(void* any_thing) {
-    std::cout << "WARNING: BLACK MAGIC MEMORY MANAGEMENT SHIT HAPPENS HERE" << std::endl;
+    std::cout << "WARNING: BLACK MAGIC MEMORY MANAGEMENT STUFF HAPPENS HERE" << std::endl;
     hopbar_callback_param_t* catch_me = (struct InventoryHopbarCallbackParam*)any_thing;
     if (catch_me == NULL) {
-        std::cout << "FUCK" << std::endl;
+        std::cout << "NOOOOO!" << std::endl;
     }
     catch_me->obj->SetCurHopbarSlot(catch_me->hopbar_slot);
 }

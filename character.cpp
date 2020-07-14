@@ -338,7 +338,7 @@ void Character::AttackRange(SDL_Texture* projectile_texture, SDL_Point mouse_pos
     SDL_Rect projectile_pos = {this->player_world_pos.x, this->player_world_pos.y, PROJECTILE_WIDTH, PROJECTILE_HEIGHT};
     Projectile p(projectile_pos, PROJECTILE_MAX_TILE_DISTANCE, PROJECTILE_MAX_FRAMES, projectile_texture, this->renderer, projectile_velocity_x, projectile_velocity_y);
     if (projectile_texture == NULL) {
-        std::cout << "Fuck! It's NULL! YOU CAN'T SEE PROJECTILE" << std::endl;
+        std::cout << "NOOO! It's NULL! YOU CAN'T SEE PROJECTILE" << std::endl;
     }
     this->projectiles.AddProjectile(p);
 }

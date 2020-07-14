@@ -24,7 +24,7 @@ typedef struct item {
 
 /**************************************************
  * BUG ALERT: THE HANDELING OF THE CALLBACKS USES
- * SOME SPOOKY BLACK MAGIC MEMORY MANAGEMENT SHIT
+ * SOME SPOOKY BLACK MAGIC MEMORY MANAGEMENT STUFF
  * WITH VOID*.
  ***************************************************/
 
