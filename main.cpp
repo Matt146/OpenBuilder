@@ -63,20 +63,16 @@ int main() {
 	TTF_Init();
 
 	// Create the window to render to
-	//WIDTH = 1080*2;
-	//HEIGHT = 720*2;
+	SDL_DisplayMode dm;
+	SDL_GetCurrentDisplayMode(0, &dm);
+	WIDTH = dm.w;
+	HEIGHT = dm.h;
 	SDL_Window* window = SDL_CreateWindow("Draw",
 			SDL_WINDOWPOS_CENTERED,
 			SDL_WINDOWPOS_CENTERED,
 			WIDTH,
 			HEIGHT,
-			SDL_WINDOW_INPUT_FOCUS | SDL_WINDOW_MOUSE_FOCUS | SDL_WINDOW_FULLSCREEN);
-
-	// Set up display mode (width and height) [IF YOU ENABLE FULLSCREEN]
-	SDL_DisplayMode dm;
-	SDL_GetCurrentDisplayMode(0, &dm);
-	WIDTH = dm.w;
-	HEIGHT = dm.h;
+			SDL_WINDOW_FULLSCREEN);
 
 	// Create the renderer
 	bool vsync = is_vsync_enabled();

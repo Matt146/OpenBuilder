@@ -95,8 +95,8 @@ enum {
 #define TREE_MIN_HEIGHT 5
 
 // Screen definitions
-extern int WIDTH;   // default: 1080*2
-extern int HEIGHT;   // default: 740*2
+extern int WIDTH;
+extern int HEIGHT;
 #define CAMERA_STARTING_X 0
 #define CAMERA_STARTING_Y 0
 

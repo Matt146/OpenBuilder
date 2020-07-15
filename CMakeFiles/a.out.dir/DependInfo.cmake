@@ -4,18 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/matt/Desktop/Files/Programming Projects/Game/animations.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/animations.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/camera.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/camera.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/character.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/character.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/enemy.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/enemy.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/gamestate.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/gamestate.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/gui.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/gui.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/inventory.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/inventory.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/main.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/main.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/map.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/map.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/perlin.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/perlin.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/projectile.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/projectile.o"
-  "/home/matt/Desktop/Files/Programming Projects/Game/utils.cpp" "/home/matt/Desktop/Files/Programming Projects/Game/CMakeFiles/a.out.dir/utils.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/animations.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/animations.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/camera.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/camera.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/character.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/character.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/enemy.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/enemy.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/gamestate.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/gamestate.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/gui.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/gui.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/inventory.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/inventory.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/main.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/main.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/map.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/map.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/perlin.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/perlin.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/projectile.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/projectile.o"
+  "/home/matt/Coding/GitCloneDumps/OpenBuilder/utils.cpp" "/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir/utils.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,7 +1,7 @@
 #include "utils.h"
 
-int WIDTH = 1808*2;
-int HEIGHT = 1080*2;
+int HEIGHT = 1080;
+int WIDTH = 1920;
 
 SDL_Texture* LoadTexture(SDL_Renderer* renderer, std::string path) {
 	SDL_Surface* surface = SDL_LoadBMP(path.c_str());

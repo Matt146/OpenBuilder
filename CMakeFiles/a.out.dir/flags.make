@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++2a
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/matt/Desktop/Files/Programming Projects/Game/include" -I/usr/include/SDL2 
+CXX_INCLUDES = -I/home/matt/Coding/GitCloneDumps/OpenBuilder/include -I/usr/include/SDL2 
 
