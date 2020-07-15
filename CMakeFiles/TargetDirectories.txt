@@ -1,3 +1,0 @@
-/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/rebuild_cache.dir
-/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/edit_cache.dir
-/home/matt/Coding/GitCloneDumps/OpenBuilder/CMakeFiles/a.out.dir
